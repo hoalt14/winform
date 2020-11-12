@@ -1,4 +1,10 @@
-# Quản lý Sinh Viên
+# note sql
+
+> ExecuteNonQuery: **"can not use select"**, only use delete, insert, update
+
+> ExecuteGetReader: only select
+
+# Quản lý Khách Sạn
 
 ![alt text](img/frmQLKS.PNG "Main")
 

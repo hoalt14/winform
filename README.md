@@ -51,3 +51,7 @@ Right click database => Tasks => Generate Scripts...
 => Summary (press Next)
 => Save or Publish Scripts (press Next -> Finish)
 ```
+
+* import database
+```
+create new query -> open file sql -> copy paste -> edit connect string -> press excute query

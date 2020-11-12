@@ -1,0 +1,9 @@
+D:\test\USCLN_BSCNN\bin\Debug\USCLN_BSCNN.exe.config
+D:\test\USCLN_BSCNN\bin\Debug\USCLN_BSCNN.exe
+D:\test\USCLN_BSCNN\bin\Debug\USCLN_BSCNN.pdb
+D:\test\USCLN_BSCNN\obj\Debug\USCLN_BSCNN.csprojResolveAssemblyReference.cache
+D:\test\USCLN_BSCNN\obj\Debug\USCLN_BSCNN.frmUocBoi.resources
+D:\test\USCLN_BSCNN\obj\Debug\USCLN_BSCNN.Properties.Resources.resources
+D:\test\USCLN_BSCNN\obj\Debug\USCLN_BSCNN.csproj.GenerateResource.Cache
+D:\test\USCLN_BSCNN\obj\Debug\USCLN_BSCNN.exe
+D:\test\USCLN_BSCNN\obj\Debug\USCLN_BSCNN.pdb

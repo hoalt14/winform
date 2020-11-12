@@ -1,3 +1,3 @@
 # Security Panel
 
-![alt text](img/securitypanel.PNG)
+![img](img/securitypanel.PNG)

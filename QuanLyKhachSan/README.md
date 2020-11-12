@@ -1,61 +1,60 @@
 # note sql
 
-> ExecuteNonQuery: **"can not use select"**, only use delete, insert, update
+- ExecuteNonQuery: **"can not use select"**, only use delete, insert, update
+- ExecuteGetReader: only select
 
-> ExecuteGetReader: only select
+## Quản lý Khách Sạn
 
-# Quản lý Khách Sạn
+![img](img/frmQLKS.PNG "Main")
 
-![alt text](img/frmQLKS.PNG "Main")
+![img](img/frmdangnhap.PNG "đăng nhập")
 
-![alt text](img/frmdangnhap.PNG "đăng nhập")
+![img](img/frmdichvu.PNG "dịch vụ")
 
-![alt text](img/frmdichvu.PNG "dịch vụ")
+![img](img/frmhoadon.PNG "hóa đơn")
 
-![alt text](img/frmhoadon.PNG "hóa đơn")
+![img](img/frmkhachhang.PNG "khách hàng")
 
-![alt text](img/frmkhachhang.PNG "khách hàng")
+![img](img/frmnhanvien.PNG "nhân viên")
 
-![alt text](img/frmnhanvien.PNG "nhân viên")
+![img](img/frmphieuthue.PNG "phiếu thuê")
 
-![alt text](img/frmphieuthue.PNG "phiếu thuê")
+![img](img/frmphong.PNG "phòng")
 
-![alt text](img/frmphong.PNG "phòng")
+![img](img/diagram.PNG "database")
 
-![alt text](img/diagram.PNG "database")
+![img](img/chucvu.PNG)
 
-![alt text](img/chucvu.PNG)
+![img](img/chucvu0.PNG)
 
-![alt text](img/chucvu0.PNG)
+![img](img/dichvu.PNG)
 
-![alt text](img/dichvu.PNG)
+![img](img/dichvu0.PNG)
 
-![alt text](img/dichvu0.PNG)
+![img](img/hoadon.PNG)
 
-![alt text](img/hoadon.PNG)
+![img](img/hoadon0.PNG)
 
-![alt text](img/hoadon0.PNG)
+![img](img/khachhang.PNG)
 
-![alt text](img/khachhang.PNG)
+![img](img/khachhang0.PNG)
 
-![alt text](img/khachhang0.PNG)
+![img](img/loaiphong.PNG)
 
-![alt text](img/loaiphong.PNG)
+![img](img/loaiphong0.PNG)
 
-![alt text](img/loaiphong0.PNG)
+![img](img/nhanvien.PNG)
 
-![alt text](img/nhanvien.PNG)
+![img](img/nhanvien0.PNG)
 
-![alt text](img/nhanvien0.PNG)
+![img](img/phieuthue.PNG)
 
-![alt text](img/phieuthue.PNG)
+![img](img/phieuthue0.PNG)
 
-![alt text](img/phieuthue0.PNG)
+![img](img/phong.PNG)
 
-![alt text](img/phong.PNG)
+![img](img/phong0.PNG)
 
-![alt text](img/phong0.PNG)
+![img](img/taikhoan.PNG)
 
-![alt text](img/taikhoan.PNG)
-
-![alt text](img/taikhoan0.PNG)
+![img](img/taikhoan0.PNG)

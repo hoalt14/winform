@@ -25,9 +25,9 @@ namespace QuanLyThuVien
                     f.Activate();
                     return;
                 }
-            frmNhanVien sv = new frmNhanVien();
-            sv.MdiParent = this;
-            sv.Show();
+            frmNhanVien nv = new frmNhanVien();
+            nv.MdiParent = this;
+            nv.Show();
         }
     }
 }

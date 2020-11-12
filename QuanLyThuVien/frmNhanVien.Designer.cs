@@ -225,6 +225,7 @@
             this.lsvNhanVien.TabIndex = 0;
             this.lsvNhanVien.UseCompatibleStateImageBehavior = false;
             this.lsvNhanVien.View = System.Windows.Forms.View.Details;
+            this.lsvNhanVien.SelectedIndexChanged += new System.EventHandler(this.lsvNhanVien_SelectedIndexChanged);
             // 
             // columnHeaderMaNV
             // 

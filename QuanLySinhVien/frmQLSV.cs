@@ -45,9 +45,9 @@ namespace QuanLySinhVien
                     f.Activate();
                     return;
                 }
-            frmKhoa sv = new frmKhoa();
-            sv.MdiParent = this;
-            sv.Show();
+            frmKhoa k = new frmKhoa();
+            k.MdiParent = this;
+            k.Show();
         }
 
         private void toolStripButtonMonHoc_Click(object sender, EventArgs e)
@@ -58,9 +58,9 @@ namespace QuanLySinhVien
                     f.Activate();
                     return;
                 }
-            frmMonHoc sv = new frmMonHoc();
-            sv.MdiParent = this;
-            sv.Show();
+            frmMonHoc mh = new frmMonHoc();
+            mh.MdiParent = this;
+            mh.Show();
         }
         private void toolStripButtonNhapDiem_Click(object sender, EventArgs e)
         {
@@ -70,9 +70,9 @@ namespace QuanLySinhVien
                     f.Activate();
                     return;
                 }
-            frmNhapDiem sv = new frmNhapDiem();
-            sv.MdiParent = this;
-            sv.Show();
+            frmNhapDiem nd = new frmNhapDiem();
+            nd.MdiParent = this;
+            nd.Show();
         }
 
         private void toolStripButtonXemDiem_Click(object sender, EventArgs e)
@@ -83,9 +83,9 @@ namespace QuanLySinhVien
                     f.Activate();
                     return;
                 }
-            frmXemDiem sv = new frmXemDiem();
-            sv.MdiParent = this;
-            sv.Show();
+            frmXemDiem xd = new frmXemDiem();
+            xd.MdiParent = this;
+            xd.Show();
         }
 
         private void toolStripButtonThoat_Click(object sender, EventArgs e)
@@ -101,9 +101,9 @@ namespace QuanLySinhVien
                     f.Activate();
                     return;
                 }
-            frmThongKe sv = new frmThongKe();
-            sv.MdiParent = this;
-            sv.Show();
+            frmThongKe tk = new frmThongKe();
+            tk.MdiParent = this;
+            tk.Show();
         }
     }
 }

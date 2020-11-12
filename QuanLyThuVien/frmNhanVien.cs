@@ -159,7 +159,7 @@ namespace QuanLyThuVien
 
         private void btnLuu_Click(object sender, EventArgs e)
         {
-            string ngay = String.Format("{0:dd/MM/yyyy}", dtpNgaySinh.Value);
+            string ngay = String.Format("{0:MM/dd/yyyy}", dtpNgaySinh.Value);
             if(themmoi)
             {
                 nv.ThemNhanVien(txtHoTen.Text, ngay, txtDiaChi.Text, txtDienThoai.Text, cboBangCap.SelectedValue.ToString());

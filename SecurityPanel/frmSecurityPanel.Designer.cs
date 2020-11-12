@@ -58,13 +58,12 @@
             // 
             // txtSecurityCode
             // 
-            this.txtSecurityCode.Enabled = false;
             this.txtSecurityCode.Location = new System.Drawing.Point(108, 20);
             this.txtSecurityCode.Name = "txtSecurityCode";
             this.txtSecurityCode.PasswordChar = '*';
-            this.txtSecurityCode.ReadOnly = true;
             this.txtSecurityCode.Size = new System.Drawing.Size(134, 20);
             this.txtSecurityCode.TabIndex = 1;
+            this.txtSecurityCode.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtSecurityCode_KeyPress);
             // 
             // btnSo1
             // 

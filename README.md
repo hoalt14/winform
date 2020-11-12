@@ -5,6 +5,11 @@
 Properties -> IsMdiContainer -> True
 ```
 
+* reset Identity column values
+```
+dbcc checkident('table name', RESEED, 0)
+```
+
 * set two primary key
 ```
 press crtl + shift -> right mouse click

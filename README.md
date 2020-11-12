@@ -1,18 +1,10 @@
 # some application by winform
 
+## note in VS 2015
+
 * set form parent
 ```
 Properties -> IsMdiContainer -> True
-```
-
-* reset Identity column values
-```
-dbcc checkident('table name', RESEED, 0)
-```
-
-* set two primary key
-```
-press crtl + shift -> right mouse click
 ```
 
 * remove database connect string
@@ -36,4 +28,26 @@ Recent Files
 HKEY_CURRENT_USER\SOFTWARE\Microsoft\VisualStudio\14.0\MRUItems\{01235aad-8f1b-429f-9d02-61a0101ea275}\Items
 
 Restart Visual Studio and that should do it.
+```
+
+## note in SQL Server 2014 Management Studio
+
+* reset Identity column values
+```
+dbcc checkident('table name', RESEED, 0)
+```
+
+* set two primary key
+```
+press crtl + shift -> right mouse click
+```
+
+* export database
+```
+Right click database => Tasks => Generate Scripts... 
+=> Introduction (press Next)
+=> Choose Objects (select "Script entire database and all database objects" -> press Next)
+=> Set Scripting Options (default -> change File name if need -> edit "Advanced" -> Types of data to script -> Schema and data)
+=> Summary (press Next)
+=> Save or Publish Scripts (press Next -> Finish)
 ```

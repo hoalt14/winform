@@ -1,9 +1,0 @@
-D:\test\SecurityPanel\bin\Debug\SecurityPanel.exe.config
-D:\test\SecurityPanel\bin\Debug\SecurityPanel.exe
-D:\test\SecurityPanel\bin\Debug\SecurityPanel.pdb
-D:\test\SecurityPanel\obj\Debug\SecurityPanel.csprojResolveAssemblyReference.cache
-D:\test\SecurityPanel\obj\Debug\SecurityPanel.frmSecurityPanel.resources
-D:\test\SecurityPanel\obj\Debug\SecurityPanel.Properties.Resources.resources
-D:\test\SecurityPanel\obj\Debug\SecurityPanel.csproj.GenerateResource.Cache
-D:\test\SecurityPanel\obj\Debug\SecurityPanel.exe
-D:\test\SecurityPanel\obj\Debug\SecurityPanel.pdb

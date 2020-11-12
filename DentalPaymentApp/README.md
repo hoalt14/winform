@@ -1,1 +1,3 @@
-# some application by winform
+# Dental Payment App
+
+![alt text](img/dentalpayment.PNG)

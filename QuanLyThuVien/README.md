@@ -2,4 +2,4 @@
 
 ![alt text](img/QLTV_NhanVien.PNG "Nhân Viên")
 
-![alt text](img/QLSV_diagram.PNG "database")
+![alt text](img/QLTV_diagram.PNG "database")

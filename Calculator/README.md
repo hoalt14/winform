@@ -1,3 +1,3 @@
 # Calculator
 
-![alt text](img/calculator.png)
+![alt text](img/calculator.PNG)

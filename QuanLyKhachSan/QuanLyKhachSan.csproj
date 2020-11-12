@@ -63,30 +63,6 @@
     <Compile Include="About.Designer.cs">
       <DependentUpon>About.cs</DependentUpon>
     </Compile>
-    <Compile Include="DataAccessLayer\CHUCVU.cs">
-      <DependentUpon>HotelModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="DataAccessLayer\HotelModel.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>HotelModel.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="DataAccessLayer\HotelModel.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>HotelModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="DataAccessLayer\HotelModel.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>HotelModel.edmx</DependentUpon>
-    </Compile>
-    <Compile Include="DataAccessLayer\NHANVIEN.cs">
-      <DependentUpon>HotelModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="DataAccessLayer\sysdiagram.cs">
-      <DependentUpon>HotelModel.tt</DependentUpon>
-    </Compile>
     <Compile Include="Database.cs" />
     <Compile Include="DichVu.cs" />
     <Compile Include="frmDangNhap.cs">
@@ -181,13 +157,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EntityDeploy Include="DataAccessLayer\HotelModel.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>HotelModel.Designer.cs</LastGenOutput>
-    </EntityDeploy>
-    <None Include="DataAccessLayer\HotelModel.edmx.diagram">
-      <DependentUpon>HotelModel.edmx</DependentUpon>
-    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -201,18 +170,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="DataAccessLayer\HotelModel.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>HotelModel.edmx</DependentUpon>
-      <LastGenOutput>HotelModel.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="DataAccessLayer\HotelModel.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>HotelModel.edmx</DependentUpon>
-      <LastGenOutput>HotelModel.cs</LastGenOutput>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
